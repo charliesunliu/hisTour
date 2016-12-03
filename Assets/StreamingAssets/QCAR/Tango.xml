@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="sathertower" size="1536.000000 2048.000000" />
+    <ImageTarget name="15354075_349071492122887_1489265850_o" size="1536.000000 1152.000000" />
+    <ImageTarget name="sather-tower-university" size="394.000000 282.247284" />
+    <ImageTarget name="P1100416" size="1707.000000 2276.444580" />
+    <ImageTarget name="berkeley-uc-berkeley" size="456.000000 330.057129" />
+  </Tracking>
+</QCARConfig>
